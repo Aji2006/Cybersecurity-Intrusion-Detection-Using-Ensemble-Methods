@@ -1,6 +1,5 @@
 # **Cybersecurity Intrusion Detection Using Ensemble Methods**
 
-## **Overview**
   In today's digital landscape, cyber threats continue to evolve, posing significant risks to data security and network integrity. This project focuses on developing an Intrusion Detection System (IDS) using machine learning, specifically ensemble learning techniques, to identify malicious activities based on network traffic and user behavior patterns.
 
 ## **Dataset**
